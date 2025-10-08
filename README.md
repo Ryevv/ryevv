@@ -17,8 +17,8 @@ Sou apaixonado por aprender continuamente, aplicar boas práticas e construir so
 ## 💡 Pontos fortes
 
 - ✅ Criação e automação de ambientes **Cloud (AWS/Azure)**  
-- ✅ **CI/CD pipelines** com GitHub Actions e Jenkins  
-- ✅ **Infraestrutura como Código (IaC)** com Terraform e Helm  
+- ✅ **CI/CD pipelines** com GitHub Actions e Jenkins 
+- ✅ **Infraestrutura como Código (IaC)** com Terraform 
 - ✅ **Monitoramento e Observabilidade** com Grafana e Prometheus  
 - ✅ **Segurança e hardening de sistemas Linux**  
 
