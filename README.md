@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Olá, seja bem-vindo(a) ao meu GitHub!
 
-<!--
-**Ryevv/ryevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou profissional focado em **DevOps, Cloud e Cibersegurança**, com experiência em **infraestrutura, redes e automação de ambientes**.  
+Sou apaixonado por aprender continuamente, aplicar boas práticas e construir soluções seguras, escaláveis e automatizadas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+💻 Atuação com **DevOps, Cloud e Segurança da Informação**  
+🔧 Automação de pipelines CI/CD e infraestrutura como código  
+☁️ Experiência com **AWS**, **Azure**, **Docker**, **Kubernetes** e **Terraform**  
+🔒 Interesse crescente em **DevSecOps** e **Blue Team**
+
+---
+
+## 💡 Pontos fortes
+
+- ✅ Criação e automação de ambientes **Cloud (AWS/Azure)**  
+- ✅ **CI/CD pipelines** com GitHub Actions e Jenkins  
+- ✅ **Infraestrutura como Código (IaC)** com Terraform e Helm  
+- ✅ **Monitoramento e Observabilidade** com Grafana e Prometheus  
+- ✅ **Segurança e hardening de sistemas Linux**  
+
+---
+
+## 📚 Atualmente estudando
+
+- 🧠 **DevSecOps e Segurança em pipelines CI/CD**  
+- ☁️ **Kubernetes avançado e observabilidade**  
+- 🔐 **Cloud Security** e frameworks de defesa em profundidade  
+- 🧩 **Automação com Ansible e Python**  
+
+---
+
+## 📫 Como me encontrar
+
+Gosto de trocar ideias sobre **automação, infraestrutura, segurança e cultura DevOps**.  
+Sinta-se à vontade para entrar em contato! 😄  
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariofelix&show_icons=true&theme=radical)
+
+## 🌐 Contato
+<!-- Redes sociais -->
+<div align="left"> 
+  <a href="www.linkedin.com/in/mariofelix-sec" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:bil.mariofelix@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  </a> 
+</div>
