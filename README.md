@@ -40,7 +40,7 @@ Sinta-se à vontade para entrar em contato! 😄
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariofelix&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryevv&show_icons=true&theme=radical)
 
 ## 🌐 Contato
 <!-- Redes sociais -->
