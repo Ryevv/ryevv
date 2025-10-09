@@ -1,7 +1,7 @@
 # 👋 Olá, seja bem-vindo(a) ao meu GitHub!
 
-Sou profissional focado em **DevOps, Cloud e Cibersegurança**, com experiência em **infraestrutura, redes e automação de ambientes**.  
-Sou apaixonado por aprender continuamente, aplicar boas práticas e construir soluções seguras, escaláveis e automatizadas.
+Sou um profissional focado em **DevOps, Cloud e Cibersegurança**, com experiência em **infraestrutura, redes e automação de ambientes**.  
+Apaixonado por aprender continuamente, aplicar boas práticas e construir soluções seguras, escaláveis e automatizadas.
 
 ---
 
