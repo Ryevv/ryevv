@@ -7,7 +7,7 @@ Apaixonado por aprender continuamente, aplicar boas práticas e construir soluç
 
 ## 🚀 Sobre mim
 
-💻 Atuação com **DevOps, Cloud e Segurança da Informação**  
+💻 Arquitetura e automação de infraestruturas Cloud com foco em segurança 
 🔧 Automação de pipelines CI/CD e infraestrutura como código  
 ☁️ Experiência com **AWS**, **Azure**, **Docker**, **Kubernetes** e **Terraform**  
 🔒 Interesse crescente em **DevSecOps** e **Blue Team**
