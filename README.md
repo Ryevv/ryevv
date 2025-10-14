@@ -42,6 +42,8 @@ Sinta-se à vontade para entrar em contato! 😄
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryevv&show_icons=true&theme=radical&cache_seconds=1800)
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=Ryevv
+
 ## 🌐 Contato
 <!-- Redes sociais -->
 <div align="left"> 
