@@ -40,12 +40,10 @@ Sinta-se à vontade para entrar em contato! 😄
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryevv&show_icons=true&theme=radical&cache_seconds=1800)
-
 ![GitHub stats](https://github-readme-stats-eight-eosin-22.vercel.app/api?username=Ryevv&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=300)
 
+![Top Langs](https://github-readme-stats-eight-eosin-22.vercel.app/api/top-langs/?username=Ryevv&layout=compact&theme=radical&cache_seconds=300)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryevv)
 
 ## 🌐 Contato
 <!-- Redes sociais -->
