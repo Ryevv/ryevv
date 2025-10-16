@@ -1,58 +1,30 @@
-# 👋 Olá, seja bem-vindo(a) ao meu GitHub!
-
-Sou um profissional focado em **DevOps, Cloud e Cibersegurança**, com experiência em **infraestrutura, redes e automação de ambientes**.  
-Apaixonado por aprender continuamente, aplicar boas práticas e construir soluções seguras, escaláveis e automatizadas.
+<h1 align="center">Hi 👋, I'm Mário</h1>
+<h3 align="center">💻 I currently work as a support assistant.</h3>
 
 ---
 
-## 🚀 Sobre mim
-
-💻 Arquitetura Cloud com foco em segurança    
-🔧 Automação de pipelines CI/CD e infraestrutura como código  
-☁️ Experiência com **AWS**, **Azure**, **Docker**, **Kubernetes** e **Terraform**  
-🔒 Interesse crescente em **DevSecOps** e **Blue Team**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryevv&show_icons=true&theme=midnight-purple" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryevv&layout=compact&theme=midnight-purple" alt="Top Langs" />
+</p>
 
 ---
 
-## 💡 Pontos fortes
+### 🧰 Tools and Technologies
 
-- ✅ Criação e automação de ambientes **Cloud (AWS/Azure)**  
-- ✅ **CI/CD pipelines** com GitHub Actions e Jenkins 
-- ✅ **Infraestrutura como Código (IaC)** com Terraform 
-- ✅ **Monitoramento e Observabilidade** com Grafana e Prometheus  
-- ✅ **Segurança e hardening de sistemas Linux**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,docker,aws,terraform,jenkins" />
+</p>
 
 ---
 
-## 📚 Atualmente estudando
+### 📖 About
 
-- 🧠 **DevSecOps e Segurança em pipelines CI/CD**  
-- ☁️ **Kubernetes avançado e observabilidade**  
-- 🔐 **Cloud Security** e frameworks de defesa em profundidade  
-- 🧩 **Automação com Ansible e Python**  
+Just another tech enthusiast exploring the cybersecurity and DevOps world.  
+Always learning, experimenting, and breaking things to understand how they work.
 
 ---
 
-## 📫 Como me encontrar
-
-Gosto de trocar ideias sobre **automação, infraestrutura, segurança e cultura DevOps**.  
-Sinta-se à vontade para entrar em contato! 😄  
-
----
-
-![GitHub stats](https://github-readme-stats-eight-eosin-22.vercel.app/api?username=Ryevv&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=300)
-
-![Top Langs](https://github-readme-stats-eight-eosin-22.vercel.app/api/top-langs/?username=Ryevv&layout=compact&theme=radical&cache_seconds=300)
-
-
-## 🌐 Contato
-<!-- Redes sociais -->
-<div align="left"> 
-  <a href="https://www.linkedin.com/in/mariofelix-sec" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-
- <a href="mailto:bil.mariofelix@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a> 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ryevv&label=Profile%20views&color=7a00ff&style=flat" alt="Profile views" />
+</p>
