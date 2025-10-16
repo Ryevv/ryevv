@@ -1,12 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=180&section=header&text=ryevv&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=180&section=header&text=Ryev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <p align="center">
   Hi, I'm Mário and I currently work as a support assistant.
 </p>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felinux0x&show_icons=true&count_private=true&hide_border=true&title_color=FFFAFA&icon_color=FFFAFA&text_color=FFFAFA&bg_color=0d1117" alt="Estatísticas do GitHub de ryevv" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felinux0x&layout=compact&hide_border=true&title_color=FFFAFA&text_color=FFFAFA&bg_color=0d1117&cache_seconds=1" alt="Linguagens mais usadas por felinux0x" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ryevv&show_icons=true&count_private=true&hide_border=true&title_color=FFFAFA&icon_color=FFFAFA&text_color=FFFAFA&bg_color=0d1117" alt="Estatísticas do GitHub de ryevv" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryevv&layout=compact&hide_border=true&title_color=FFFAFA&text_color=FFFAFA&bg_color=0d1117&cache_seconds=1" alt="Linguagens mais usadas por ryevv" />
 </div>
 
 <div align="center">
