@@ -12,7 +12,7 @@
 <!-- Estatísticas GitHub -->
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats-eight-eosin-22.vercel.app/api?username=Ryevv&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=300&hide_border=true&title_color=9b59b6&icon_color=8e44ad&text_color=c8a2ff&bg_color=0d001a" alt="GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats-eight-eosin-22.vercel.app/api/top-langs/?username=Ryevv&layout=compact&cache_seconds=300&hide_border=true&title_color=9b59b6&text_color=c8a2ff&bg_color=0d001a" alt="Top Languages" />
+  <img width="41%" height="195px" src="https://github-readme-stats-eight-eosin-22.vercel.app/api/top-langs/?username=Ryevv&layout=compact&hide=html,css,scss,makefile,jupyter%20notebook&langs_count=6&hide_border=true&title_color=9b59b6&text_color=c8a2ff&bg_color=0d001a" alt="Top Languages" />
 </div>
 
 ---
