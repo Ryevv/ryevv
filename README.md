@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-ee0000?style=for-the-badge&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 
@@ -50,7 +49,7 @@
 <p align="center">
   🌌 Passionate about automation, monitoring, and infrastructure-as-code.<br>
   🚀 Constantly learning DevOps tools and cloud practices to build scalable systems.<br>
-  💡 “Automate what you hate — and learn what breaks it.”
+  💡 “Automate what you hate and learn what breaks it.”
 </p>
 
 ---
