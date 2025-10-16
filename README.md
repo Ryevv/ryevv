@@ -17,8 +17,6 @@
 
 ---
 
-<!-- Skills -->
-<h3 align="center">🧰 Tools & Technologies</h3>
 
 <!-- Skills -->
 <h3 align="center">🧰 Tools & Technologies</h3>
@@ -46,6 +44,7 @@
   <img src="https://img.shields.io/badge/Prometheus-6A0DAD?style=for-the-badge&logo=prometheus&logoColor=white"/>
 
 </p>
+
 ---
 
 <!-- About -->
