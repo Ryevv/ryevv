@@ -3,7 +3,7 @@
 
 <!-- Apresentação -->
 <p align="center">
-  👋 Hi, I'm <strong>Mário</strong> — a passionate <strong>Support Assistant</strong> transitioning into <strong>Cloud & DevOps Engineering</strong>.<br>
+  👋 Hi, I'm <strong>Mário</strong> a passionate <strong>Support Assistant</strong> transitioning into <strong>Cloud & DevOps Engineering</strong>.<br>
   I love automating things, managing cloud infrastructures, and exploring cybersecurity.
 </p>
 
