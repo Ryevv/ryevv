@@ -28,15 +28,15 @@
   <img src="https://img.shields.io/badge/Kubernetes-6A0DAD?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-6A0DAD?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansible-6A0DAD?style=for-the-badge&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-6A0DAD?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-6A0DAD?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20AWS-6A0DAD?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-6A0DAD?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
   <!-- OS -->
   <img src="https://img.shields.io/badge/Linux-6A0DAD?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-6A0DAD?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-6A0DAD?style=for-the-badge&logo=windows11&logoColor=white"/>
 
   <!-- Scripting -->
-  <img src="https://img.shields.io/badge/Bash-6A0DAD?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-6A0DAD?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white"/>
 
   <!-- Observability -->
