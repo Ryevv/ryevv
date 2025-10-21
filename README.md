@@ -38,6 +38,7 @@
   <!-- Scripting -->
   <img src="https://img.shields.io/badge/Bash-6A0DAD?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Golang-6A0DAD?style=for-the-badge&logo=python&logoColor=white"/>
 
   <!-- Observability -->
   <img src="https://img.shields.io/badge/Grafana-6A0DAD?style=for-the-badge&logo=grafana&logoColor=white"/>
